@@ -1,0 +1,6 @@
+{
+  "name": "Aura AI",
+  "description": "Personal AI Assistant with smart reasoning, task management, schedule orchestration, and contextual insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
